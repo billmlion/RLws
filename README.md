@@ -31,7 +31,11 @@ rm ~/miniconda3/miniconda.sh
 3、conda create --name RLws python=3.9 -y
 
 news ops
+
 0、python==3.9
+
 1、pip install torch==2.3.0
+
 2、pip uninstall gym
+
 3、pip install gym==0.25.2

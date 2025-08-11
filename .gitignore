@@ -1,0 +1,11 @@
+# 忽略 Jupyter Notebook 元数据变化（配合之前的过滤器使用）
+# 注意：单独 .gitignore 无法过滤文件内部的部分内容，需配合过滤器
+
+# 其他常见忽略规则
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store  # macOS 系统文件
+.vscode/   # VSCode 配置目录（如果不需要跟踪）
+*.log
